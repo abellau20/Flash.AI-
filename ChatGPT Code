@@ -1,0 +1,6 @@
+import os
+import openai
+
+# Set up OpenAI API key  
+openai.api_key = os.getenv("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")
+
